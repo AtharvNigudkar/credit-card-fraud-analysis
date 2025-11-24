@@ -1,0 +1,5 @@
+period,total_transcation,fraud_transcation,fraud_percentage
+Night,23934,124,0.518
+Morning,70912,118,0.166
+Afternoon,96435,134,0.139
+Evening,93526,116,0.124
