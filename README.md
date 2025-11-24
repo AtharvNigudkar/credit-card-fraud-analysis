@@ -51,15 +51,15 @@ https://public.tableau.com/app/profile/atharv.nigudkar/viz/fraud_dashboard/Credi
 ## 8. How to Reproduce
 
 ### SQL
-1. Load `creditcard.csv` into MySQL  
+1. Load creditcard.csv into MySQL  
 2. Run scripts in the following order:
-   - `create_table.sql`  
-   - `eda_queries.sql`  
-   - `analysis_queries.sql`  
-   - `summary_tables.sql`
+   - create_table.sql  
+   - eda_queries.sql  
+   - analysis_queries.sql  
+   - summary_tables.sql
 
 ### Tableau
-1. Open the `.twbx` file in `/tableau`  
+1. Open the .twbx file in /tableau  
 2. Connect to the summary CSVs  
 3. Publish to Tableau Public  
 
